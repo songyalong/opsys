@@ -8,12 +8,11 @@ from ..common.login_out import *
 @csrf_exempt
 def login_in(request):
     if request.method == "GET":
-        return render_to_response("login.html")
+        return render_to_response("sign-in.html")
     else:
         username = request.POST.get("username")
         password = request.POST.get("password")
         if not username and not password:
-            print "username = %" %(username)
             return render_to_response("index.html")
         else:
             return render_to_response("index.html")

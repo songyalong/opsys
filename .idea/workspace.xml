@@ -2,12 +2,333 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a90ddb72-4aef-4578-b3d4-ad07e37ab6f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/models/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/140x140.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/170x170.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/442256_20337880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/472381_10949156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/503993_62595320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/625998_12886207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/737034_24905666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/789080_16753532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/888272_30368604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/1a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/1b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/2a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/2b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/3a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/3b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/4a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/4b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/5b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/6b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/7b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/319768_8498.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/403944_5580.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/43616_6206.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/442256_20337880.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/463600_31373324.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/472381_10949156.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/485382_81894547.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/503993_62595320.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/544337_83543416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/625998_12886207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/737034_24905666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/760375_32906821.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/789080_16753532.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/888272_30368604.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/loading9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/media/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/media/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/media/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/media/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/middleman.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1083978.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1139155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1170492.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1192482.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1205972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1208847.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/1248972.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/471397.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/653195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/671385.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/764343.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/797762.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/912129.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/people/923068.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/preview/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/tumblr_mopqkkwK2M1st5lhmo1_1280.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fancy-zoom/img/closebox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/arrow-down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/arrow-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/arrow-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/arrow-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/hs-2004-27-a-large_web.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-icons_2694e8_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-icons_3d80b3_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-icons_72a7cf_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/images/ui-icons_ffffff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/blog/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/faces/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/gallery/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/images/loading-icons/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fancy-zoom/css/fancyzoom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fancy-zoom/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fancy-zoom/src/fancyzoom.coffee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fancy-zoom/src/fancyzoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/API.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/FAQ.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/NEWS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/PLUGINS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/annotating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth-1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth-2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth-3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth-4.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth-5.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-eu-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-japan-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/data-usa-gdp-growth.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/graph-types.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/image.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/interacting-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/interacting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/multiple-axes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/navigate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/percentiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/pie.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/realtime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/resize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/setting-options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/stacking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/symbols.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/thresholding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/time.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/tracking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/turning-series.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/visitors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/examples/zooming.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/excanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/excanvas.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.colorhelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.crosshair.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.fillbetween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.navigate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.pie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.selection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.stack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.threshold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/agenda-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/basic-views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/cupertino/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/external-dragging.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/gcal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/json-events.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/selectable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/demos/theme.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/fullcalendar/fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/fullcalendar/fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/fullcalendar/fullcalendar.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/fullcalendar/gcal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/lib/jquery-ui.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jQuery-Knob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jQuery-Knob/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jQuery-Knob/js/jquery.knob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jQuery-Knob/knob.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jquery.imagesloaded.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jquery.isotope.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jquery.masonry.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/lib/jquery.peity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/stylesheets/elements.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/stylesheets/isotope.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/stylesheets/premium.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/static/stylesheets/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/templates/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/opweb/templates/sign-in.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/css/app.v2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/css/landing.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/avatar.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/avatar_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/phone-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/phone-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/render-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/thumb_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/thumb_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/images/thumb_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/app.v2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/appear/jquery.appear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/apps/notes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/calendar/bootstrap_calendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/calendar/bootstrap_calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/calendar/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/easypiechart/jquery.easy-pie-chart.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.grow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.orderBars.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.pie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/sparkline/jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/combodate/combodate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/datatables/datatables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/datatables/jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/datepicker/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/datepicker/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/file-input/bootstrap-filestyle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fuelux/demo.datagrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fuelux/fuelux.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fuelux/fuelux.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fullcalendar/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fullcalendar/fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/fullcalendar/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/grid/gallery.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/grid/gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/grid/jquery.grid-a-licious.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/ie/excanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/ie/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/ie/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/intro/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/intro/intro.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/intro/introjs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/jquery-ui-1.10.3.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/jquery.ui.touch-punch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/landing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/libs/backbone-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/libs/backbone.localStorage-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/libs/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/libs/underscore-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/maps/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/maps/gmaps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/markdown/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/markdown/epiceditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/nestable/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/nestable/jquery.nestable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/nestable/nestable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/parsley/parsley.extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/parsley/parsley.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/default_thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/sprite_next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/sprite_prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/sprite_x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/default/sprite_y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/jquery.prettyPhoto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/prettyphoto/prettyPhoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/scroll/smoothscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/select2/select2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/select2/select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/select2/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/slider/bootstrap-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/slider/slider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/sortable/jquery.sortable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/wysiwyg/bootstrap-wysiwyg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/wysiwyg/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/static/js/wysiwyg/jquery.hotkeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/opweb/templates/login.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opweb/common/login_out.py" afterPath="$PROJECT_DIR$/opweb/common/login_out.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opweb/templates/login.html" afterPath="$PROJECT_DIR$/opweb/templates/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opweb/urls/urls.py" afterPath="$PROJECT_DIR$/opweb/urls/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opweb/models/menus.py" afterPath="$PROJECT_DIR$/opweb/models/menus.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/opweb/views/login.py" afterPath="$PROJECT_DIR$/opweb/views/login.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/opweb/static/js/charts/flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/opweb/static/lib/flot/jquery.flot.resize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/opweb/static/js/fullcalendar/fullcalendar.css" afterPath="$PROJECT_DIR$/opweb/static/lib/fullcalendar-1.6.4/fullcalendar/fullcalendar.css" />
     </list>
     <ignored path="opsys.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,12 +351,24 @@
     <favorites_list name="opsys" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login_out.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/opweb/common/login_out.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="327">
+              <caret line="37" column="78" selection-start-line="37" selection-start-column="78" selection-end-line="37" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,16 +379,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/opsys/urls.py" />
-        <option value="$PROJECT_DIR$/opweb/models/menus.py" />
         <option value="$PROJECT_DIR$/opweb/views.py" />
         <option value="$PROJECT_DIR$/opweb/models/__init__.py" />
         <option value="$PROJECT_DIR$/opweb/tests.py" />
         <option value="$PROJECT_DIR$/opweb/templates/loginin.html" />
-        <option value="$PROJECT_DIR$/opweb/common/login_out.py" />
         <option value="$PROJECT_DIR$/opweb/models/user.py" />
         <option value="$PROJECT_DIR$/opweb/urls/urls.py" />
         <option value="$PROJECT_DIR$/opsys/settings.py" />
-        <option value="$PROJECT_DIR$/opweb/views/login.py" />
         <option value="$PROJECT_DIR$/opweb/templates/login.html" />
         <option value="$PROJECT_DIR$/opweb/templates/blog.html" />
         <option value="$PROJECT_DIR$/opweb/templates/buttons.html" />
@@ -92,7 +422,12 @@
         <option value="$PROJECT_DIR$/opweb/templates/table-static.html" />
         <option value="$PROJECT_DIR$/opweb/templates/timeline.html" />
         <option value="$PROJECT_DIR$/opweb/templates/widgets.html" />
+        <option value="$PROJECT_DIR$/opweb/views/login.py" />
+        <option value="$PROJECT_DIR$/opweb/templates/sign-in.html" />
+        <option value="$PROJECT_DIR$/opweb/models/menus.py" />
+        <option value="$PROJECT_DIR$/opweb/templates/header.html" />
         <option value="$PROJECT_DIR$/opweb/templates/index.html" />
+        <option value="$PROJECT_DIR$/opweb/common/login_out.py" />
       </list>
     </option>
   </component>
@@ -103,10 +438,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -133,6 +466,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,7 +532,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="urls" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -215,7 +550,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -271,41 +606,22 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pythonProject\opsys\opweb\templates" />
+      <recent name="E:\pythonProject\opsys\opweb\static" />
       <recent name="F:\pythonProject\opsys\opweb\templates" />
       <recent name="F:\pythonProject\opsys\opweb\static" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.opsys">
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="opsys" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -358,24 +674,6 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="opsys" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -561,17 +859,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33419022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17555556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0349162" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.034700315" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -579,7 +877,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -600,16 +898,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/opweb/admin.py" />
-    <entry file="file://$PROJECT_DIR$/opweb/apps.py" />
-    <entry file="file://$PROJECT_DIR$/opweb/models.py" />
     <entry file="file://$PROJECT_DIR$/opweb/tests.py" />
     <entry file="file://$PROJECT_DIR$/opweb/views.py" />
     <entry file="file://$PROJECT_DIR$/opweb/common/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -617,15 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/models/menus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,9 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="16" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,326 +936,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/common/login_out.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/opweb/urls/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opweb/templates/blog.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/buttons.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/chart.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/components.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/docs.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/features.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/form-elements.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/form-validation.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/form-wizard.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/fullcalendar.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/gallery.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/gmap.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/grid.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/icons.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/intro.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/invoice.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/landing.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-c.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-h.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-r.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/list.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/mail.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/master.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/modal.lockme.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/notebook.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/portlet.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/price.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/profile.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/signin.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/signup.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/table-datagrid.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/table-datatable.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/table-static.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/timeline.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/widgets.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/opweb/static/stylesheets/theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opweb/views/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding>
-            <element signature="e#15#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/blog.html">
+    <entry file="file://$PROJECT_DIR$/opweb/models/menus.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="268" column="21" selection-start-line="268" selection-start-column="21" selection-end-line="268" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="125">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/buttons.html">
+    <entry file="file://$PROJECT_DIR$/opweb/templates/sign-in.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/chart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/components.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/docs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/features.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/form-elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/form-validation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/form-wizard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/fullcalendar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/gmap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/icons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/invoice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/landing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-h.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/layout-r.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/mail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/master.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/modal.lockme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/notebook.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-161">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/portlet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/price.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/signin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/table-datagrid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/table-datatable.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/table-static.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/timeline.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opweb/templates/widgets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="2950">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opweb/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        <state relative-caret-position="675">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opweb/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/opweb/common/login_out.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="37" column="78" selection-start-line="37" selection-start-column="78" selection-end-line="37" selection-end-column="78" />
           <folding />
         </state>
       </provider>
