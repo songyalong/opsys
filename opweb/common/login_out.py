@@ -20,8 +20,6 @@ import json
 
 from django.http import HttpResponse
 
-from common.utils.json_config import json_service_error, json_request_error
-
 
 def login_required(html):
     def _login_required(func):
@@ -73,48 +71,6 @@ def menu_auth(html):
     return _menu_auth
 
 
-def argument_check(argument, method, type='body'):
-    """
-    api请求方式检查
-    api接口必传参数检查
-    @param: argument 必传参数list tuple都可以
-    @param: method 请求方法get,post ['GET', 'POST'] list
-    @param: type form-data还是get参数还是body参数
-    @return: 提示客户端参数错误json
-    {
-        "status": 405,
-        "message":  anything argument is not null
-        "objects": null
-    }
-    """
-    def _argument(func):
-        def __argument(*args, **kwargs):
-            #  request obj
-            request = args[0]
-            #  请求接口方式
-            request_method = request.method
-            #  支持多种method请求
-            method_str = ''
-            for m in method:
-                method_str += m + ","
-                m.upper()
-            #  接口支持请求方式
-            if request_method.upper() not in method:
-                request_error_dict = json_request_error()
-                request_error_dict['message'] = request_method + '请求！此接口只支持'+method_str+'请求!'
-                return api_return(request, request_error_dict)
-            argument_dict = dict()
-            argument_dict['status'] = 405
-            argument_dict['objects'] = None
-            # 根据method不同检查相对应参数
-            check_argument_is_null, return_argument_dict = check_argument(argument, request, argument_dict, method)
-            if check_argument_is_null:
-                return api_return(request, return_argument_dict)
-            ret = func(*args, **kwargs)
-            #  添加HttpResponse header
-            return HttpResponse(ret)
-        return __argument
-    return _argument
 
 
 def check_argument(argument, request, argument_dict, method):
@@ -141,23 +97,6 @@ def check_argument(argument, request, argument_dict, method):
     return check_argument_is_null, argument_dict
 
 
-def service_check(func):
-    """
-    捕捉service异常
-    @return: 异常信息
-    """
-    def _service(*args, **kwargs):
-        try:
-            request = args[0]
-            ret = func(*args, **kwargs)
-        except Exception, e:
-            service_error = json_service_error()
-            service_error['message'] = str(e.message)
-            return api_return(request, service_error)
-        return ret
-    return _service
-
-
 def api_return(request, json_data):
     return HttpResponse(json.dumps(json_data, ensure_ascii=False))
 
@@ -173,4 +112,5 @@ def generic_template(html, param):
     template = loader.get_template(html)
     response_template = template.render(Context(param))
     return response_template
+
 
