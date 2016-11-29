@@ -20,8 +20,11 @@ import json
 
 from django.http import HttpResponse
 
+<<<<<<< HEAD
 from common.utils.json_config import json_service_error, json_request_error
 
+=======
+>>>>>>> dev
 
 def login_required(html):
     def _login_required(func):
@@ -73,6 +76,7 @@ def menu_auth(html):
     return _menu_auth
 
 
+<<<<<<< HEAD
 def argument_check(argument, method, type='body'):
     """
     api请求方式检查
@@ -115,6 +119,8 @@ def argument_check(argument, method, type='body'):
             return HttpResponse(ret)
         return __argument
     return _argument
+=======
+>>>>>>> dev
 
 
 def check_argument(argument, request, argument_dict, method):
@@ -141,6 +147,7 @@ def check_argument(argument, request, argument_dict, method):
     return check_argument_is_null, argument_dict
 
 
+<<<<<<< HEAD
 def service_check(func):
     """
     捕捉service异常
@@ -158,6 +165,8 @@ def service_check(func):
     return _service
 
 
+=======
+>>>>>>> dev
 def api_return(request, json_data):
     return HttpResponse(json.dumps(json_data, ensure_ascii=False))
 
@@ -174,3 +183,7 @@ def generic_template(html, param):
     response_template = template.render(Context(param))
     return response_template
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev

@@ -26,6 +26,12 @@
 
 </head>
 <body class="theme-blue">
+<<<<<<< HEAD
+=======
+    <!--header part-->
+    {% include "header.html" %}
+    <!-- nav part -->
+>>>>>>> dev
     <div class="sidebar-nav">
         <ul>
             <li data-popover="true"><a href="#" data-target=".dashboard-menu" class="nav-header" data-toggle="collapse"><i class="fa fa-fw fa-dashboard"></i> 虚拟机<i class="fa fa-collapse"></i></a></li>
@@ -38,6 +44,19 @@
                     <li ><a href="calendar.html"><span class="fa fa-caret-right"></span> Calendar</a></li>
                 </ul>
             </li>
+<<<<<<< HEAD
+=======
+            {% for menu in menus %}
+            <li><a href="#" data-target=".accounts-menu" class="nav-header collapsed" data-toggle="collapse"><i class="fa fa-fw fa-briefcase"></i> {{ menu.menu_name }} <span class="label label-info">+3</span></a></li>
+                <li>
+                <ul class="accounts-menu nav nav-list collapse">
+                    {% for sub_menu in menu.sub_menus %}
+                    <li ><a href="sign-in.html"><span class="fa fa-caret-right"></span> {{ sub_menu.menu_name }}</a></li>
+                    {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+>>>>>>> dev
         </ul>
     </div>
 
@@ -55,6 +74,7 @@
             </ul>
         </div>
 
+<<<<<<< HEAD
         <div class="main-content">
             <footer>
                 <hr>
@@ -62,6 +82,9 @@
                 <p>© 2014 <a href="http://www.portnine.com" target="_blank">Portnine</a></p>
             </footer>
         </div>
+=======
+        {% include "footer.html" %}
+>>>>>>> dev
     </div>
 
 
