@@ -1,6 +1,5 @@
 # coding: utf-8
 import json
-
 from django.http import HttpResponse
 
 def login_required(html):
@@ -10,15 +9,10 @@ def login_required(html):
             request = args[0]
             session = request.session
             #  判断是否登录
-            if session.has_key('user'):
+            if session.has_key('username'):
                 if type(ret) is dict:
-                    ret['menu'] = session.get('menu')
-                    ret['user'] = session.get('user')
-                    ret['is_superuser'] = session.get('user').get('is_superuser')
-                    current_location = request.REQUEST.get('current_location')
-                    if not ret.has_key('current_location'):
-                        ret['current_location'] = current_location
-                    ret['menu_no'] = request.REQUEST.get('menu_no')
+                    ret['menus'] = session.get('menus')
+                    ret['username'] = session.get('username')
                     response = generic_template(html, ret)
                     return HttpResponse(response)
                 else:
@@ -26,7 +20,7 @@ def login_required(html):
             else:
                 #  添加HttpResponse header
                 if type(ret) is dict:
-                    local_html = 'login.html'
+                    local_html = 'sign-in.html'
                     response = generic_template(local_html, {})
                     return HttpResponse(response)
         return __deco
@@ -52,6 +46,10 @@ def menu_auth(html):
         return __menu_auth
     return _menu_auth
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> dev
 def check_argument(argument, request, argument_dict, method):
     """
     根据请求方式不同检查参数
