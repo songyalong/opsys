@@ -23,9 +23,3 @@ class Menus(models.Model, DjangoJSONEncoder):
     def inset_menus(cls, menu_name, parent_id="0"):
         cls.objects.create(menu_name=menu_name, parent_id=parent_id)
 
-<<<<<<< HEAD
-class Menus(models.Model):
-    menu_name = models.CharField(max_length=200, )
-    parent = models.ForeignKey('self', null=True, default="0")
-=======
->>>>>>> dev

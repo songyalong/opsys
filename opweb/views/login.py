@@ -15,20 +15,8 @@ def login_in(request):
     else:
         username = request.POST.get("username")
         password = request.POST.get("password")
-<<<<<<< HEAD
+        menus = MenusService.get_menus()
         if not username and not password:
-            return render_to_response("index.html")
-        else:
-            return render_to_response("index.html")
-
-
-"""登出"""
-def login_out(request):
-    pass
-=======
-        if username and password:
-            menus = MenusService.get_menus()
-            request.session["username"] = username
-            request.session["password"] = password
             return render_to_response("index.html", {"menus": menus})
->>>>>>> dev
+        else:
+            return render_to_response("index.html", {"menus": menus})
